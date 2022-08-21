@@ -10,6 +10,10 @@ print("-------------------")
 #instrukcje warunkowe
 print("instrukcje warunkowe if i else")
 
+
+
+
+
 zmienna1 = 10
 zmienna2 = 10
 if zmienna1 < zmienna2:
@@ -20,6 +24,8 @@ elif zmienna1 == 10:
     print("Zmienna 1 jest równa 10")
 else:
     print("Zmienna 1 jest równa zmiennej 2")
+
+
 
 
 

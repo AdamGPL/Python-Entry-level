@@ -8,6 +8,8 @@ print(5%2)                 #reszta z dzielenia
 print("WITAJ")
 print("SWIECIE " * 3)
 
+
+
 zmienna1 = "Witaj"
 zmienna2 = input("Podaj imie: ")
 
